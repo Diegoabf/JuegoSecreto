@@ -1,5 +1,5 @@
 
-/*
+
 let numeroMaximo = 10;
 let listaNumerosSorteados = [];
 let numeroSecreto = generarNumeroSecreto();
@@ -88,7 +88,7 @@ condicionesIniciales();
 
 
 
-
+/*
 
 Practicas
 
@@ -231,7 +231,7 @@ function tabla(numero){
 tabla(5);
 
 
-EJercicios de Arrays/Listas*/
+EJercicios de Arrays/Listas
 
 let listaGenerica = [];
 let lenguajesDeProgramacion = ["JavaScript", "C", "C++", "Kotlin", "Python"];
@@ -239,4 +239,4 @@ let lenguajesDeProgramacion = ["JavaScript", "C", "C++", "Kotlin", "Python"];
 lenguajesDeProgramacion.push("Java", "Ruby", "GoLang");
 //console.log(lenguajesDeProgramacion);
 lenguajesDeProgramacion.reverse();
-console.log(lenguajesDeProgramacion);
+console.log(lenguajesDeProgramacion);*/
